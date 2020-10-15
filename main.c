@@ -1,8 +1,8 @@
-#include <stdio.h>
-#include <conio.h>
-#include <dos.h>
-#include <stdlib.h>
-#include <time.h>
+#include<stdio.h>
+#include<conio.h>
+#include<dos.h>
+#include<stdlib.h>
+#include<time.h>
 
 void main(void) {
 	int x, y, ax, ay;
